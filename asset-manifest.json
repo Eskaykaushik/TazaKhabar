@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Eskaykaushik/TazaKhabar.git/static/css/main.073c9b0a.css",
+    "main.js": "/Eskaykaushik/TazaKhabar.git/static/js/main.bf8a8dfe.js",
+    "static/js/787.4c026eef.chunk.js": "/Eskaykaushik/TazaKhabar.git/static/js/787.4c026eef.chunk.js",
+    "static/media/spinner.gif": "/Eskaykaushik/TazaKhabar.git/static/media/spinner.f8886e5cd1805447d070.gif",
+    "static/media/breakingnews.jpg": "/Eskaykaushik/TazaKhabar.git/static/media/breakingnews.dfdd1dfa7ac9a7cfa453.jpg",
+    "index.html": "/Eskaykaushik/TazaKhabar.git/index.html",
+    "main.073c9b0a.css.map": "/Eskaykaushik/TazaKhabar.git/static/css/main.073c9b0a.css.map",
+    "main.bf8a8dfe.js.map": "/Eskaykaushik/TazaKhabar.git/static/js/main.bf8a8dfe.js.map",
+    "787.4c026eef.chunk.js.map": "/Eskaykaushik/TazaKhabar.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bf8a8dfe.js"
+  ]
+}
